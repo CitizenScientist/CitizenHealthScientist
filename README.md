@@ -1,4 +1,4 @@
-## Welcome to the CitizenScientist Page
+## Welcome to the Citizen Health Scientist Page
 
 This page will report emerging health science knowledge that may be of use to the ordinary citizen. Contributions to this page will also help harness the knowledge of individual citizens to create holistic knowledge that can be of use to anyone. Across generations or cultures, knowledge can almost be lost, but can then be regained by the retelling of a story by just **one** person. 
 
