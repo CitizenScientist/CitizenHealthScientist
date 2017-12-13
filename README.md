@@ -6,22 +6,17 @@ This page will report emerging health science knowledge that may be of use to th
 
 The science of health and healing is the overarching topic for the CitizenScientist, although just as scientific knowledge evolves, the topics on this page will also evolve. 
 
-```markdown
-Syntax highlighted code block
+```
+Some topics will include:
 
-# Header 1
-## Header 2
-### Header 3
+1. Achieving optimal brain health -
+2. Rest and healing
+3. Improving cognition through exercise
+4. Healthy relationships to improve coping and immune health
+5. Minimizing inflammation
 
-- Bulleted
-- List
+Links to different resources will be curated, so that this site can provide a one-stop shopping.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
