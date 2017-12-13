@@ -14,17 +14,13 @@ Some topics will include:
 3. Improving cognition through exercise
 4. Healthy relationships to improve coping and immune health
 5. Minimizing inflammation
+6. Reviving folk medicine and the wisdom of past generations
+7. Brain health in childhood
+8. Brain health and aging
 
 Links to different resources will be curated, so that this site can provide a one-stop shopping.
 
 ```
+### Support and Contacts
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CitizenScientist/CitizenScientist/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Because optimal health often requires assistance from a practitioner, helpful links for finding licensed providers will be listed. 
