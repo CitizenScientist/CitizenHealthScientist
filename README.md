@@ -4,7 +4,7 @@ This page will report emerging health science knowledge that may be of use to th
 
 ### Topics
 
-The science of health and healing is the overarching topic for the CitizenScientist, although just as scientific knowledge evolves, the topics on this page will also evolve. 
+The science of health and healing is the overarching topic for the Citizen Health Scientist, although just as scientific knowledge evolves, the topics on this page will also evolve. 
 
 ```
 Some topics will include:
