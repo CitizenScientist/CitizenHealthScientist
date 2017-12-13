@@ -1,10 +1,10 @@
 ## Welcome to the Citizen Scientist Page
 
-This page will report emerging science knowledge that may be of use to the ordinary citizen. A second goal is to harness the knowledge of each citizen to create holistic knowledge that can be of use to anyone. 
+This page will report emerging health science knowledge that may be of use to the ordinary citizen. A second goal is to harness the knowledge of each citizen to create holistic knowledge that can be of use to anyone. Across generations or cultures, knowledge can be lost but then reemerge by the telling of one individual's story.
 
-### Markdown
+### Topics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Health and healing is the overarching topic, although just as scientific knowledge evolves, the topics on this page will also evolve. 
 
 ```markdown
 Syntax highlighted code block
