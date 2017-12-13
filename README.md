@@ -9,16 +9,14 @@ The science of health and healing is the overarching topic for the CitizenScient
 ```
 Some topics will include:
 
-1. Achieving optimal brain health 
-2. Rest and healing
-3. Improving cognition through exercise
-4. Healthy relationships to improve coping and immune health
-5. Minimizing inflammation
-6. Reviving folk medicine and the wisdom of past generations
-7. Brain health in childhood
-8. Brain health and aging
+1. Rest, meditation, and healing
+2. Improving cognition through daily routines and exercise
+3. Healthy relationships to improve coping and immune health
+4. Minimizing inflammation to achieve optimal brain health
+5. Reviving folk medicine and the wisdom of past generations
+6. Parent-child interaction and brain development
 
-Links to different resources will be curated, so that this site can provide a one-stop shopping.
+Links to different resources will be curated.
 
 ```
 ### Support and Contacts
