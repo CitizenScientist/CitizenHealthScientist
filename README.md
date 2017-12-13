@@ -1,10 +1,10 @@
 ## Welcome to the Citizen Scientist Page
 
-This page will report emerging health science knowledge that may be of use to the ordinary citizen. A second goal is to harness the knowledge of each citizen to create holistic knowledge that can be of use to anyone. Across generations or cultures, knowledge can be lost but then reemerge by the telling of one individual's story.
+This page will report emerging health science knowledge that may be of use to the ordinary citizen. Contributions to this page will also help harness the knowledge of individual citizens to create holistic knowledge that can be of use to anyone. Across generations or cultures, knowledge can almost be lost, but can then be regained by the retelling of a story by just **one** person. 
 
 ### Topics
 
-Health and healing is the overarching topic, although just as scientific knowledge evolves, the topics on this page will also evolve. 
+Health and healing is the overarching topic for the CitizenScientist, although just as scientific knowledge evolves, the topics on this page will also evolve. 
 
 ```markdown
 Syntax highlighted code block
